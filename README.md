@@ -3,11 +3,11 @@
 
 all the stuff which i tried while learing mediapipe from bounding boxes to mesh
 
--->bounding boxes
--->hand detection
--->face detection
--->multiple human detection 
--->face mesh
+bounding boxes
+| hand detection
+| face detection
+| multiple human detection 
+| face mesh
 
 ## HAND DETECTIONS
 https://github.com/rain2108/mediapipe/assets/150415488/5fd7f366-e101-42f9-abc3-178796598807
